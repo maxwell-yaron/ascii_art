@@ -4,7 +4,7 @@
 
 Utility to generate ascii art from images.
 
-### Dependancies
+### Dependencies
 
 * OpenCV
 * CMake
